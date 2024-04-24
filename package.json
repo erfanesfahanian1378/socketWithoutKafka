@@ -1,0 +1,17 @@
+{
+  "name": "socketwithoutkafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0",
+    "redis": "^4.6.13",
+    "socket.io": "^4.7.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
